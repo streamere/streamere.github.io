@@ -1,0 +1,1 @@
+<?php echo $this->config->item("page_ajax_script"); ?>
